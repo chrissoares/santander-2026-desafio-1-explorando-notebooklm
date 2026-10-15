@@ -1,3 +1,5 @@
+![alt text](conteudos/notebook_cover_gamedev_gta.png)
+
 # Tema: Criação de Games
 > Objetivo: Criar um segundo celebro para aprendizagem sobre criação de games.
 
