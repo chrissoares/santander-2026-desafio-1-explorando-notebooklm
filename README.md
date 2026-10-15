@@ -1,40 +1,41 @@
-Tema: Criação de Games
-Objetivo: Criar um segundo celebro para aprendizagem sobre criação de games.
+# Tema: Criação de Games
+> Objetivo: Criar um segundo celebro para aprendizagem sobre criação de games.
 
-Link para o [NotebookLM](https://notebook.google.com/notebook/5e3eef17-3ba7-47ad-acf6-4b2fe0b23d91)
+[Link para o NotebookLM](https://notebook.google.com/notebook/5e3eef17-3ba7-47ad-acf6-4b2fe0b23d91)
 
 Fontes:
-https://www.youtube.com/@GMToolkit - Mark Brown - Jornalista de jogos, um dos maiores educadores de game design do mundo.
-https://www.youtube.com/@sora_sakurai_en - Masahiro Sakurai - criador de Super Smash Bros. e Kirby
-https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ - GDC – Game Developers Conference - A maior conferência de desenvolvedores do mundo.Nela, grandes mentes da indústria (incluindo desenvolvedores da Valve, Riot Games, Nintendo e estúdios independentes de sucesso) revelam os bastidores técnicos de suas produções.
+- https://www.youtube.com/@GMToolkit - Mark Brown - Jornalista de jogos, um dos maiores educadores de game design do mundo.
+- https://www.youtube.com/@sora_sakurai_en - Masahiro Sakurai - criador de Super Smash Bros. e Kirby
+- https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ - GDC – Game Developers Conference - A maior conferência de desenvolvedores do mundo.Nela, grandes mentes da indústria (incluindo desenvolvedores da Valve, Riot Games, Nintendo e estúdios independentes de sucesso) revelam os bastidores técnicos de suas produções.
 
-Diretriz:
+
+#### Diretriz:
 Você deve atuar como um professor (mestre) em desenvolvimento de jogos.
 Com base nas fontes, extrair apenas o que diz respeito ao processo de desenvolvimento de jogos, tanto pratico quanto teórico, de forma que seja um curso completo.
 
-Pessoas a Seguir:
+#### Pessoas a Seguir:
 - Mark Brown
 - Masahiro Sakurai
 - Thomas Brush -  é o reflexo do desenvolvedor indie moderno. Criador solo por trás de jogos artisticamente deslumbrantes como Pinstripe e Neversong. Ele divide o tempo entre ensinar a criar jogos e ensinar como comercializá-los.
 
-Plataformas de aprendizado:
+#### Plataformas de aprendizado:
 - GameDev.tv
 
 
-Motores:
+#### Motores:
 - Godot Engine
 - Unity 
 - GDevelop 
 - Unreal Engine
 
-Fontes adicionais:
+#### Fontes adicionais:
 - https://gamemakerstoolkit.com
 - https://learn.unity.com
 - https://learn.unity.com/course/create-with-code
 - https://www.gdquest.com
 - https://docs.godotengine.org/en/stable/
 - https://school.gdquest.com/courses/learn_2d_gamedev_godot_4/learn_gdscript/learn_gdscript_app
-- Pesquisa Deep research
+- +Pesquisadas com Deep research
 
 # Perguntas e respostas:
 
