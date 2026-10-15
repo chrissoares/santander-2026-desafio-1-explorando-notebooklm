@@ -61,6 +61,15 @@ Aqui está o resumo dos passos essenciais para começar no desenvolvimento de jo
 
 ### Evidências das referências:
 
+#### Referência 1
+![Referência 1](conteudos/evidencia-referencia-1.png)
+
+#### Referência 2
+![Referência 2](conteudos/evidencia-referencia-2.png)
+
+#### Referência 3
+![Referência 3](conteudos/evidencia-referencia-3.png)
+
 
 
 # Formatos do Estudio Gerados
